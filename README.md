@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Lokare
 - 👀 I’m interested in building anything on Web, Start ups, open-source projects, Cloud Infra, Data Structures and Algorithms
 - 🌱 I’m currently learning Data Structures and Algorithms and server side development using Node
-- 💞️ I’m looking to collaborate on open source projects built on React
+- 💞️ I’m looking to collaborate on open source projects using React
 - 📫 How to reach me deepaklokare.24@gmail.com
 - Skills: JavaScript, HTML, CSS, React, Redux, Node.js, Express, Angular, ES6, Java, SQL, No-SQL, Object Oriented Programming, REST API's, AWS, System Designing. 
 <!---
